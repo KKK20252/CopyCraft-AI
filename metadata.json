@@ -1,0 +1,5 @@
+{
+  "name": "CopyCraft AI",
+  "description": "一个智能软文生成器，利用实时数据研究趋势、生成大纲，并以各种专家人设撰写内容。",
+  "requestFramePermissions": []
+}
