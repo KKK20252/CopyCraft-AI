@@ -22,10 +22,10 @@ const StepInput: React.FC<Props> = ({ onNext, isLoading }) => {
       <div className="w-full max-w-2xl text-center space-y-8">
         <div className="space-y-2">
           <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
-            您想写什么主题的软文？
+            你的AI写作助手
           </h1>
           <p className="text-lg text-slate-600">
-            AI 将根据您的目标受众，研究市场趋势并撰写专业内容。
+            AI 将深度挖掘微信公众号、小红书的热门内容，为您定制爆款软文。
           </p>
         </div>
 

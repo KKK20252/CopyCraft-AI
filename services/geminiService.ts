@@ -39,7 +39,7 @@ export const researchTopicAngles = async (topic: string, audience: string) => {
     目标受众：${audience}
     
     任务：
-    1. 搜索全网关于该主题针对该人群的最新热门内容。
+    1. 重点搜索 **微信公众号、小红书** 等平台关于该主题针对该人群的最新热门内容。
     2. 提供 **10个** 极具吸引力、且 **“干货感”** 十足的标题供用户选择。
     
     **标题要求：**
